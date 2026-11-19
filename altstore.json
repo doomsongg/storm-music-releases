@@ -10,6 +10,15 @@
       "bundleIdentifier": "com.ilya.stormmusic",
       "versions": [
         {
+          "version": "1.0.1",
+          "buildVersion": "13",
+          "date": "2026-11-19T23:16:34.557Z",
+          "localizedDescription": "Импорт музыки из Spotify, Яндекс Музыки, Apple Music, Deezer и YouTube — Библиотека → стрелка у плейлистов или ссылка в поиск · Импорт списком «Исполнитель - Трек» для VK, SoundCloud и всего остального",
+          "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.1/StormMusic.ipa",
+          "size": 17548565,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "12",
           "date": "2026-11-19T19:01:02.312Z",
@@ -31,11 +40,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.0",
-      "versionDate": "2026-11-19T19:01:02.312Z",
-      "versionDescription": "Тексты песен в такт музыке — кнопка с микрофоном · «Сейчас слушают»: видно, что играет у друзей, можно слушать вместе с ними · Профили: своё фото, имя, @ник, «о себе» и цвет обложки · Открытые плейлисты: делись ссылкой, друзья слушают и сохраняют к себе · Полка «Плейлисты друзей» на главной · Вихрь точнее подбирает по настроению и языку",
-      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.0/StormMusic.ipa",
-      "size": 17531035
+      "version": "1.0.1",
+      "versionDate": "2026-11-19T23:16:34.557Z",
+      "versionDescription": "Импорт музыки из Spotify, Яндекс Музыки, Apple Music, Deezer и YouTube — Библиотека → стрелка у плейлистов или ссылка в поиск · Импорт списком «Исполнитель - Трек» для VK, SoundCloud и всего остального",
+      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.1/StormMusic.ipa",
+      "size": 17548565
     }
   ],
   "news": []
