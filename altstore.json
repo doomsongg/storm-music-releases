@@ -10,6 +10,15 @@
       "bundleIdentifier": "com.ilya.stormmusic",
       "versions": [
         {
+          "version": "1.0.4",
+          "buildVersion": "16",
+          "date": "2026-11-20T21:14:01.152Z",
+          "localizedDescription": "Новый живой фон «вихрь», улучшения эквалайзера и истории прослушиваний.",
+          "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.4/StormMusic.ipa",
+          "size": 17562728,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.3",
           "buildVersion": "15",
           "date": "2026-11-20T00:08:50.680Z",
@@ -58,11 +67,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.3",
-      "versionDate": "2026-11-20T00:08:50.680Z",
-      "versionDescription": "Импорт музыки из Spotify, Яндекс Музыки, Apple Music, Deezer и YouTube — Библиотека → стрелка у плейлистов или ссылка в поиск · Импорт списком «Исполнитель - Трек» для VK, SoundCloud и всего остального",
-      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.3/StormMusic.ipa",
-      "size": 17548566
+      "version": "1.0.4",
+      "versionDate": "2026-11-20T21:14:01.152Z",
+      "versionDescription": "Новый живой фон «вихрь», улучшения эквалайзера и истории прослушиваний.",
+      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.4/StormMusic.ipa",
+      "size": 17562728
     }
   ],
   "news": []
