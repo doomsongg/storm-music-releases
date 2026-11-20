@@ -10,6 +10,15 @@
       "bundleIdentifier": "com.ilya.stormmusic",
       "versions": [
         {
+          "version": "1.0.3",
+          "buildVersion": "15",
+          "date": "2026-11-20T00:08:50.680Z",
+          "localizedDescription": "Импорт музыки из Spotify, Яндекс Музыки, Apple Music, Deezer и YouTube — Библиотека → стрелка у плейлистов или ссылка в поиск · Импорт списком «Исполнитель - Трек» для VK, SoundCloud и всего остального",
+          "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.3/StormMusic.ipa",
+          "size": 17548566,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.2",
           "buildVersion": "14",
           "date": "2026-11-19T23:53:51.364Z",
@@ -49,10 +58,10 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.2",
-      "versionDate": "2026-11-19T23:53:51.364Z",
+      "version": "1.0.3",
+      "versionDate": "2026-11-20T00:08:50.680Z",
       "versionDescription": "Импорт музыки из Spotify, Яндекс Музыки, Apple Music, Deezer и YouTube — Библиотека → стрелка у плейлистов или ссылка в поиск · Импорт списком «Исполнитель - Трек» для VK, SoundCloud и всего остального",
-      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.2/StormMusic.ipa",
+      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.3/StormMusic.ipa",
       "size": 17548566
     }
   ],
