@@ -10,6 +10,15 @@
       "bundleIdentifier": "com.ilya.stormmusic",
       "versions": [
         {
+          "version": "1.1.0",
+          "buildVersion": "17",
+          "date": "2026-11-22T12:33:25.449Z",
+          "localizedDescription": "Виджет «Сейчас играет» на экран «Домой» и экран блокировки · Вихрь учитывает темп и энергию · запоминает твои реакции · подборка по любимым трекам, лайкам и плейлистам · новый дизайн Вихря",
+          "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.1.0/StormMusic.ipa",
+          "size": 17899071,
+          "minOSVersion": "16.0"
+        },
+        {
           "version": "1.0.4",
           "buildVersion": "16",
           "date": "2026-11-20T21:14:01.152Z",
@@ -67,11 +76,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.4",
-      "versionDate": "2026-11-20T21:14:01.152Z",
-      "versionDescription": "Новый живой фон «вихрь», улучшения эквалайзера и истории прослушиваний.",
-      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.0.4/StormMusic.ipa",
-      "size": 17562728
+      "version": "1.1.0",
+      "versionDate": "2026-11-22T12:33:25.449Z",
+      "versionDescription": "Виджет «Сейчас играет» на экран «Домой» и экран блокировки · Вихрь учитывает темп и энергию · запоминает твои реакции · подборка по любимым трекам, лайкам и плейлистам · новый дизайн Вихря",
+      "downloadURL": "https://github.com/doomsongg/storm-music-releases/releases/download/ios-1.1.0/StormMusic.ipa",
+      "size": 17899071
     }
   ],
   "news": []
